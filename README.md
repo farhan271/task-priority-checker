@@ -1,4 +1,4 @@
-# ⚡ TaskFlow — Task Priority Checker
+# Task Priority Checker
 
 A full-stack MERN application that lets users manage tasks with priority-based sorting.
 Built for the Full Stack Developer Assessment (Dyna Mass Tech).
